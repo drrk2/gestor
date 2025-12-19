@@ -1,0 +1,11 @@
+:root { --uvm-red: #E31E24; }
+body { font-family: 'Plus Jakarta Sans', sans-serif; overflow-x: hidden; }
+.glass { background: rgba(15, 23, 42, 0.7); backdrop-filter: blur(16px); border: 1px solid rgba(255, 255, 255, 0.08); }
+.uvm-gradient { background: linear-gradient(135deg, #E31E24 0%, #9b1418 100%); }
+.tab-btn { color: #64748b; }
+.tab-btn:hover { background: rgba(255, 255, 255, 0.05); color: #f8fafc; }
+.animate-view { animation: slideUp 0.4s cubic-bezier(0, 0, 0.2, 1); }
+@keyframes slideUp { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
+::-webkit-scrollbar { width: 4px; }
+::-webkit-scrollbar-thumb { background: #E31E24; border-radius: 10px; }
+input, select { color-scheme: dark; }
