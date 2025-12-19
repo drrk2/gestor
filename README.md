@@ -105,3 +105,22 @@ Abre index.html en tu navegador preferido.
 
 🌟 Propuesta de Valor
 Nexus UVM resuelve la desconexión burocrática en las instituciones educativas, transformando procesos manuales en un ecosistema digital trazable, seguro y escalable para el futuro de la educación tecnológica.
+
+
+<h1>Preview/Previsualizacion</h1>
+<h2>Student Case/ Modo Estudiante</h2>
+<img width="1775" height="1052" alt="image" src="https://github.com/user-attachments/assets/e0ebaa77-aba9-46a5-9d06-04de94be9a67" />
+
+<img width="1859" height="1051" alt="image" src="https://github.com/user-attachments/assets/3cefe3d5-8bdc-4abd-9744-48a480f36dc7" />
+
+<img width="1846" height="1044" alt="image" src="https://github.com/user-attachments/assets/2b6882d6-d1d8-40bf-8530-738514741fac" />
+
+<img width="1858" height="1049" alt="image" src="https://github.com/user-attachments/assets/cd1a14c2-c446-46d7-880d-c2950a7d9599" />
+
+<img width="1860" height="1049" alt="image" src="https://github.com/user-attachments/assets/3efd5690-cc2f-44d1-8cb4-bb4bc65813f6" />
+
+<img width="1859" height="1055" alt="image" src="https://github.com/user-attachments/assets/b9e6482a-5f89-4539-8834-14d654f2d17e" />
+
+<img width="439" height="594" alt="image" src="https://github.com/user-attachments/assets/1cee596f-0a27-4142-9f56-11c6fa866959" />
+
+<img width="1851" height="1049" alt="image" src="https://github.com/user-attachments/assets/91dcb625-ead4-4c83-9cef-218e6a05324c" />
